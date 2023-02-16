@@ -4,4 +4,8 @@ const isValungtungDay = () => {
   return date.getDay() === 14 && date.getMonth() === 2;
 }
 
+const test = () => {
+  console.log('test');
+}
+
 export default isValungtungDay;
