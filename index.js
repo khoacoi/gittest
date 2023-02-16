@@ -19,3 +19,7 @@ function process() {
 
     return;
 }
+
+function chuibay() {
+    console.log('To cha thang Huy');
+}
