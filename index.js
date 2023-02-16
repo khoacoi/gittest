@@ -1,5 +1,3 @@
-import valungtung  from './valungtung'
-
 function main() {
     return 'this is main function';
 }
